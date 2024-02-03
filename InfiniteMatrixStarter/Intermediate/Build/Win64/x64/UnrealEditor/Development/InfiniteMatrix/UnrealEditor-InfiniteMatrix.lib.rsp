@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-InfiniteMatrix.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Files\InfiniteMatrixStarterProject\InfiniteMatrixStarter\Intermediate\Build\Win64\x64\InfiniteMatrixEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"G:\Files\InfiniteMatrixStarterProject\InfiniteMatrixStarter\Intermediate\Build\Win64\x64\UnrealEditor\Development\InfiniteMatrix\InfiniteMatrix.cpp.obj"
+"G:\Files\InfiniteMatrixStarterProject\InfiniteMatrixStarter\Intermediate\Build\Win64\x64\UnrealEditor\Development\InfiniteMatrix\MyClass.cpp.obj"
+"G:\Files\InfiniteMatrixStarterProject\InfiniteMatrixStarter\Intermediate\Build\Win64\x64\UnrealEditor\Development\InfiniteMatrix\Default.rc2.res"
+/OUT:"G:\Files\InfiniteMatrixStarterProject\InfiniteMatrixStarter\Intermediate\Build\Win64\x64\UnrealEditor\Development\InfiniteMatrix\UnrealEditor-InfiniteMatrix.lib"

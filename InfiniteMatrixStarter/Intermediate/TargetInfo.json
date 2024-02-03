@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "InfiniteMatrix",
+			"Path": "..\\Source\\InfiniteMatrix.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "InfiniteMatrixEditor",
+			"Path": "..\\Source\\InfiniteMatrixEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

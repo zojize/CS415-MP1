@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\files\\infinitematrixstarterproject\\infinitematrixstarter\\source\\infinitematrix\\myclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\files\\infinitematrixstarterproject\\infinitematrixstarter\\intermediate\\build\\win64\\x64\\infinitematrixeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "g:\\files\\infinitematrixstarterproject\\infinitematrixstarter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\infinitematrix\\definitions.infinitematrix.h",
+            "g:\\files\\infinitematrixstarterproject\\infinitematrixstarter\\source\\infinitematrix\\myclass.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
